@@ -1,12 +1,12 @@
-Nombre del Proyecto
+# Nombre del Proyecto 
 
 Página Web Personal
 
-Descripción
+## Descripción
 
 Esta es una página web del coder Juan Camilo Álvarez Sánchez. Incluye una bienvenida, una sección de información personal con habilidades, un portafolio con proyectos realizados en el módulo de HTML y CSS, y una sección de contacto con formulario.
 
-Información del Coder
+## Información del Coder
 
 Nombre completo: Juan Camilo Álvarez Sánchez
 
@@ -17,7 +17,7 @@ Correo: camiloalvarezsan04@gmail.com
 Documento de identidad: 1000100434
 
 
-Estructura del Proyecto
+## Estructura del Proyecto
 
 index.html: Página principal con presentación y descripción del sitio.
 
@@ -32,7 +32,7 @@ styles.css: Estilos generales y responsivos.
 img/: Carpeta para imágenes de proyectos y personales.
 
 
-Tecnologías Usadas
+## Tecnologías Usadas
 
 HTML5
 
@@ -45,7 +45,7 @@ Grid
 Responsive Design
 
 
-Cómo usar este proyecto
+## Cómo usar este proyecto
 
 1. Clona este repositorio en tu máquina local.
 
@@ -57,11 +57,11 @@ Cómo usar este proyecto
 
 
 
-Vista previa
+## Vista previa
 
 Puedes ver el proyecto en acción desde el navegador abriendo el archivo index.html localmente.
 
-Créditos
+## Créditos
 
 Este proyecto fue desarrollado como parte de la prueba de desempeño del Módulo 2 (HTML y CSS) en Riwi.
 
