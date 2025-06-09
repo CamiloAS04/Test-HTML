@@ -10,11 +10,11 @@ Información del Coder
 
 Nombre completo: Juan Camilo Álvarez Sánchez
 
-Clan: Be a Codernnn
+Clan: Van rossum
 
-Correo: juancamilo@example.com
+Correo: camiloalvarezsan04@gmail.com
 
-Documento de identidad: 123456789
+Documento de identidad: 1000100434
 
 
 Estructura del Proyecto
