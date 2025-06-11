@@ -180,34 +180,6 @@ body {
   animation: fadeInUp 1s ease-in-out;
 }
 
-/* ===== Responsive ===== */
-@media (max-width: 768px) {
-  .header__menu {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-  .hero__titulo {
-    font-size: 2rem;
-  }
-  .formulario__form {
-    width: 90%;
-  }
-
-header h1,
-  .contacto legend {
-    text-align: center;
-    font-size: 1.5rem;
-  }
-
-  .contacto {
-    padding: 1rem;
-  }
-
-  .footer {
-    flex-direction: column;
-    text-align: center;
-    gap: 0.5rem;
-  }
 
 .footer {
   background: rgba(94, 9, 9, 0.301);
@@ -221,22 +193,23 @@ header h1,
   margin: 0 0.5rem;
   color: #642424;;
   text-decoration: none;
+}
+
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .header__menu {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .hero__titulo {
+    font-size: 2rem;
+  }
+  .formulario__form {
+    width: 90%;
   }
 }
 
-.camilo-info {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .camilo-info img {
-    max-width: 80%;
-  }
-
-  .camilo-info p {
-    padding: 0 1rem;
-    text-align: center;
-  }
 
 @media (max-width: 480px) {
   header h1 {
@@ -247,5 +220,3 @@ header h1,
     padding: 1rem;
   }
 }
-
-  
