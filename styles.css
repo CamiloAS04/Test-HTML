@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #F5F5DC;
-  padding-bottom: 70px; /* Added for fixed footer */
+  padding-bottom: 120px; /* Increased for fixed footer and nav-inferior */
 }
 
 /* ANIMACIÓN DE ENTRADA */
@@ -69,7 +69,7 @@ header h1 {
   position: fixed;
   bottom: 0;
   width: 100%;
-  z-index: 1000;
+  z-index: 1000; /* Adjusted z-index: now below nav-inferior */
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -97,7 +97,7 @@ header h1 {
   position: fixed;
   bottom: 0;
   width: 100%;
-  z-index: 999; /* Lower than footer if needed, but in this case, it should be above content. */
+  z-index: 1001; /* Adjusted z-index: now above footer */
 }
 
 .nav-inferior__menu {
