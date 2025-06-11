@@ -254,13 +254,4 @@ body {
     flex-direction: column;
     gap: 0.3rem;
   }
-
-  .nav-inferior__menu {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .nav-inferior__menu li {
-    margin: 0.3rem 0;
-  }
 }
