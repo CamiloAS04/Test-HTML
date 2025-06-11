@@ -313,3 +313,33 @@ body {
     padding: 1rem;
   }
 }
+
+
+
+
+/* === Ajustes adicionales para móviles: contacto y sobre mí === */
+@media (max-width: 768px) {
+
+  .contacto {
+    padding: 1rem;
+    margin: 1rem auto;
+  }
+
+  .camilo-info {
+    margin-bottom: 20px;
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .contacto {
+    padding: 0.5rem;
+    margin: 0.5rem auto;
+  }
+
+  .camilo-info {
+    margin-bottom: 10px;
+    padding: 0 0.5rem;
+  }
+}
